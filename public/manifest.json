@@ -1,0 +1,19 @@
+{
+  "name": "Nama Tumukuru — ನಮ್ಮ ತುಮಕೂರು",
+  "short_name": "Nama Tumukuru",
+  "description": "Smart City, Tourism & Civic Services PWA for Tumakuru, Karnataka. Your City. Your Voice. Your Journey.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#F8FAFC",
+  "theme_color": "#1D4ED8",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/vite.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["travel", "government", "utilities", "navigation"]
+}
