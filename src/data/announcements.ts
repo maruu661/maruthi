@@ -82,3 +82,4 @@ export const COMMUNITY_SUGGESTIONS_DATA: CommunitySuggestion[] = [
     status: 'Discussion'
   }
 ];
+

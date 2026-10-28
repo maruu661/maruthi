@@ -111,3 +111,4 @@ npm run dev
 npm run build
 ```
 Generates optimized chunks in `dist/` with tree-shaken Leaflet and Lucide modules.
+

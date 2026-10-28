@@ -86,3 +86,4 @@ export const ITINERARIES_DATA: Itinerary[] = [
     ]
   }
 ];
+

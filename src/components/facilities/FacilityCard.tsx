@@ -168,3 +168,4 @@ export const FacilityCard: React.FC<FacilityCardProps> = ({ facility, onOpenCond
     </div>
   );
 };
+

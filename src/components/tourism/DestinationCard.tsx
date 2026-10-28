@@ -134,3 +134,4 @@ export const DestinationCard: React.FC<DestinationCardProps> = ({ destination })
     </div>
   );
 };
+

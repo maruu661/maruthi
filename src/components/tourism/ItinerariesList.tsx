@@ -129,3 +129,4 @@ export const ItinerariesList: React.FC = () => {
     </div>
   );
 };
+

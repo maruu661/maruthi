@@ -312,3 +312,4 @@ export const DestinationDetailModal: React.FC<DestinationDetailModalProps> = ({ 
     </div>
   );
 };
+

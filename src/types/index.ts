@@ -180,3 +180,4 @@ export interface CommunitySuggestion {
   date: string;
   status: 'Discussion' | 'Reviewing' | 'Planned';
 }
+

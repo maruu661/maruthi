@@ -322,3 +322,4 @@ export const DESTINATIONS_DATA: Destination[] = [
     isFeatured: false,
   }
 ];
+

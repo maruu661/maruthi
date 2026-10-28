@@ -205,3 +205,4 @@ export const INITIAL_REPORTS_DATA: CivicReport[] = [
     ]
   }
 ];
+

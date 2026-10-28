@@ -272,3 +272,4 @@ export const ExploreTumakuru: React.FC = () => {
     </div>
   );
 };
+

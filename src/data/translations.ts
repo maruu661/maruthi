@@ -98,3 +98,4 @@ export const TRANSLATIONS = {
     onlineStatus: 'ಆನ್‌ಲೈನ್‌ಗೆ ಮರಳಿದ್ದೀರಿ. ಮಾಹಿತಿ ನವೀಕರಿಸಲಾಗುತ್ತಿದೆ.'
   }
 };
+
